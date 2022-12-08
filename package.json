@@ -8,8 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "querytest": "node ./src/app.js",
-    "logictest": "node ./src/anagramLogic.js"
+    "querytest": "node ./src/query-test.js",
+    "logictest": "node ./src/logic-test.js"
   },
   "keywords": [],
   "author": "",
