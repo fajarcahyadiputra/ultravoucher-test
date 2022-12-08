@@ -1,0 +1,17 @@
+{
+  "name": "ultravoucher",
+  "version": "1.0.0",
+  "description": "test`",
+  "main": "index.js",
+  "dependencies": {
+    "sqlite3": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "querytest": "node ./src/app.js",
+    "logictest": "node ./src/anagramLogic.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
